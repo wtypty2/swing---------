@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StudentManagerSystem:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudentManagerSystem_jar2</output-path>
+    <root id="archive" name="StudentManagerSystem.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="StudentManagerSystem" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/xml/parsers/jaxp-ri/1.4.5/jaxp-ri-1.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/aixport-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jfreechart-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jcommon-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/xml/parsers/jaxp-api/1.4.5/jaxp-api-1.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.44/mysql-connector-java-5.1.44.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/idlj-4.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
