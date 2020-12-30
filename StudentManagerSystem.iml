@@ -12,9 +12,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="mysql-connector-java-5.1.9" level="project" />
-    <orderEntry type="library" name="jfree:jfreechart:1.0.2" level="project" />
     <orderEntry type="library" name="idlj-4.0.1" level="project" />
     <orderEntry type="library" name="aixport-1.3.1" level="project" />
+    <orderEntry type="library" name="forms_rt" level="project" />
     <orderEntry type="library" name="Maven: com.sun.xml.parsers:jaxp-ri:1.4.5" level="project" />
     <orderEntry type="library" name="Maven: javax.xml.parsers:jaxp-api:1.4.5" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.44" level="project" />
@@ -30,7 +30,7 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.weisj:darklaf-macos:2.5.4" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.swinglabs:jxlayer:3.0.4" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.formdev:svgSalamander:1.1.2.3" level="project" />
-    <orderEntry type="library" name="Maven: jfree:jfreechart:1.0.13" level="project" />
-    <orderEntry type="library" name="Maven: jfree:jcommon:1.0.16" level="project" />
+    <orderEntry type="library" name="jfreechart-1.0.18" level="project" />
+    <orderEntry type="library" name="jcommon-1.0.23" level="project" />
   </component>
 </module>

@@ -1,12 +1,31 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="StudentManagerSystem:jar">
+  <artifact name="StudentManagerSystem:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/StudentManagerSystem_jar</output-path>
-    <root id="archive" name="StudentManagerSystem.jar">
-      <element id="module-output" name="StudentManagerSystem" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jfreechart-1.0.2.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jcommon-1.0.0.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-3.8.1.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.9.jar" path-in-jar="/" />
+    <root id="root">
+      <element id="archive" name="StudentManagerSystem.jar">
+        <element id="module-output" name="StudentManagerSystem" />
+      </element>
+      <element id="library" level="project" name="Maven: com.github.weisj:darklaf-core:2.5.4" />
+      <element id="library" level="project" name="idlj-4.0.1" />
+      <element id="library" level="project" name="Maven: com.github.weisj:darklaf-windows:2.5.4" />
+      <element id="library" level="project" name="mysql-connector-java-5.1.9" />
+      <element id="library" level="project" name="Maven: com.formdev:svgSalamander:1.1.2.3" />
+      <element id="library" level="project" name="Maven: com.sun.xml.parsers:jaxp-ri:1.4.5" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.44" />
+      <element id="library" level="project" name="forms_rt" />
+      <element id="library" level="project" name="Maven: com.github.weisj:darklaf-macos:2.5.4" />
+      <element id="library" level="project" name="aixport-1.3.1" />
+      <element id="library" level="project" name="Maven: com.github.weisj:darklaf-property-loader:2.5.4" />
+      <element id="library" level="project" name="Maven: org.swinglabs:jxlayer:3.0.4" />
+      <element id="library" level="project" name="Maven: net.java.dev.jna:jna:5.5.0" />
+      <element id="library" level="project" name="Maven: com.github.weisj:darklaf-utils:2.5.4" />
+      <element id="library" level="project" name="Maven: com.github.weisj:darklaf-platform-base:2.5.4" />
+      <element id="library" level="project" name="Maven: com.github.weisj:darklaf-native-utils:2.5.4" />
+      <element id="library" level="project" name="Maven: org.jetbrains:annotations:20.1.0" />
+      <element id="library" level="project" name="Maven: javax.xml.parsers:jaxp-api:1.4.5" />
+      <element id="library" level="project" name="Maven: com.github.weisj:darklaf-theme:2.5.4" />
+      <element id="library" level="project" name="jcommon-1.0.23" />
+      <element id="library" level="project" name="jfreechart-1.0.18" />
     </root>
   </artifact>
 </component>

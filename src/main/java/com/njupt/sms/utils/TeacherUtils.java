@@ -2,6 +2,7 @@ package com.njupt.sms.utils;
 
 import com.njupt.sms.beans.Teacher;
 
+import javax.swing.*;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
@@ -65,19 +66,28 @@ public class TeacherUtils {
             sql = "insert into teacher(username,password,name,phone,email) value(?,?,?,?,?)";
         }
 
-        List<Object> params = new ArrayList<>();
-        params.add(map.get("username"));
-        params.add(map.get("password"));
-        params.add(map.get("name"));
-        params.add(map.get("phone"));
-        params.add(map.get("email"));
-        if (map.containsKey("id")) {
-            params.add(map.get("id"));
+
+            List<Object> params = new ArrayList<>();
+        try {
+            params.add(map.get("username"));
+            params.add(map.get("password"));
+            params.add(map.get("name"));
+            params.add(map.get("phone"));
+            params.add(map.get("email"));
+            if (map.containsKey("id")) {
+                params.add(map.get("id"));
+            }
+
+        }catch (Exception e) {
+            JOptionPane.showMessageDialog(null, "数据不完整，数据保存失败", "提示", JOptionPane.INFORMATION_MESSAGE);
+            boolean flag = false;
+            return flag;
         }
         boolean flag = false;
         try {
             flag = jdbcUtils.updateByPreparedStatement(sql, params);
         } catch (SQLException e) {
+            JOptionPane.showMessageDialog(null, "格式有问题，数据保存失败", "提示", JOptionPane.INFORMATION_MESSAGE);
             e.printStackTrace();
         }
         return flag;
