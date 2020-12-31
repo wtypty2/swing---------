@@ -1,8 +1,5 @@
-# StudentGradesManageSystem
-## 一个使用Java swing的学生成绩管理系统，软件工程实验周的数据库大作业 ##
+# StudentGradesManageSystem-plus
 
-
-> 使用该项目的麻烦点下右上角的 ***star*** ，感激不尽。
 
 **作业要求如下:**
 --
