@@ -5,9 +5,11 @@ https://github.com/leftjs/StudentGradesManageSystem
 
 # how to run
 1. install jdk( 14 or higher version)安装JDK 14或更高版本
-2. 下载StudentGradesManageSystem-master.zip
-3. 解压，配置Mysql数据库xml
-4.双击打开StudentGradesManageSystem-master.zip\StudentGradesManageSystem-master\out\artifacts\StudentManagerSystem_jar
+2. 用IDEA 打开项目，添加项目依赖
+3. 创建 配置数据库[![rXTHLd.png](https://s3.ax1x.com/2020/12/31/rXTHLd.png)](https://imgchr.com/i/rXTHLd)
+4.运行sql文件
+[![rX747n.png](https://s3.ax1x.com/2020/12/31/rX747n.png)](https://imgchr.com/i/rX747n)
+5.编译运行
 
 **作业要求如下:**
 --
