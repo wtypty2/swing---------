@@ -1,5 +1,13 @@
 # StudentGradesManageSystem-plus
 
+# 原项目地址，本项目在此项目上进行改进
+https://github.com/leftjs/StudentGradesManageSystem
+
+# how to run
+1. install jdk( 14 or higher version)安装JDK 14或更高版本
+2. 下载StudentGradesManageSystem-master.zip
+3. 解压，配置Mysql数据库xml
+4.双击打开StudentGradesManageSystem-master.zip\StudentGradesManageSystem-master\out\artifacts\StudentManagerSystem_jar
 
 **作业要求如下:**
 --
