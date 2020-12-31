@@ -27,13 +27,6 @@
 **TIP:**
 项目用到IDEA的GUI designer，请用IDEA运行项目，Eclipse会报错
 
-**程序截图如下：**
 
-1. 登陆界面![login scene](http://ww3.sinaimg.cn/large/71ae9b51gw1evqj3p58ajj20ow0i6mz7.jpg)
-
-2. 管理员界面![admin scene1](http://ww3.sinaimg.cn/large/71ae9b51gw1evqj5n8o1xj21jq106dln.jpg)![admin scene2](http://ww1.sinaimg.cn/large/71ae9b51gw1evqj6yquzjj21je108gqy.jpg)![admin scene3](http://ww2.sinaimg.cn/large/71ae9b51gw1evqj8e33h2j21jm10kn12.jpg)![admin scene4](http://ww2.sinaimg.cn/large/71ae9b51gw1evqj8wvefdj21ju13mq84.jpg)![admin scene5](http://ww2.sinaimg.cn/large/71ae9b51gw1evqj9f5ytdj21j2128gs3.jpg)
-
-3. 教师界面![teacher scene1](http://ww2.sinaimg.cn/large/71ae9b51gw1evqjaowmk8j21jo12yafj.jpg)![teacher scene2](http://ww3.sinaimg.cn/large/71ae9b51gw1evqjbg7dofj21ja132wij.jpg)
-4. 学生界面![student scene1](http://ww3.sinaimg.cn/large/71ae9b51gw1evqjcfpmb8j21jo12s41u.jpg)![student scene2](http://ww1.sinaimg.cn/large/71ae9b51gw1evqjd0wsuxj21jw12on1b.jpg)![student scene3](http://ww1.sinaimg.cn/large/71ae9b51gw1evqjddgc32j21k412yae1.jpg)
 
 
